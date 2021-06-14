@@ -25,7 +25,7 @@ export const projects = [
     title: "Bank Tycoon",
     description:
       "A Bank Tycoon game that includes a stock market simulator and other features to cover what banks do. Users can accept customers, loans, and accounts which are used to invest in the stock market or to advertise the bank further.",
-    image: "/images/4.png",
+    image: "/images/4.PNG",
     tags: ["Java", "Spring Boot", "Vaadin"],
     source: "https://github.com/Socksham/BankSim",
     visit: "https://github.com/Socksham/BankSim",
